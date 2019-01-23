@@ -1,6 +1,6 @@
 pragma solidity 0.4.25;
 
-import "./StringMapping";
+import "./StringMapping.sol";
 
 contract TestStringMapping is StringMapping {
 
